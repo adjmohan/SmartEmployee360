@@ -97,5 +97,14 @@ Build the application for production:
 ```bash
 npm run build
 ```
+## 🖼️ Preview
+
+![SmartEmployee360 Dashboard]
+
+<img width="1880" height="849" alt="Screenshot 2025-07-26 214849" src="https://github.com/user-attachments/assets/4fde9ba4-7720-4f50-8741-36977d889d88" />
+
+<img width="1885" height="844" alt="Screenshot 2025-07-26 214716" src="https://github.com/user-attachments/assets/45eab3c4-b1dc-4c04-a854-251b732242ce" />
+
+
 
 
