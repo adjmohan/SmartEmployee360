@@ -97,7 +97,7 @@ Build the application for production:
 ```bash
 npm run build
 ```
-## 🖼️ Preview
+## 📸 Project Preview
 
 ![SmartEmployee360 Dashboard]
 
